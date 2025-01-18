@@ -1,0 +1,28 @@
+{
+    "checksum": "5d73f695e6e0f2409af6054871fb2ebe",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Fuji_Temple.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a07",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#0a0a07",
+        "color1": "#646d6e",
+        "color2": "#67777D",
+        "color3": "#9A5F2B",
+        "color4": "#A8916C",
+        "color5": "#D99C4E",
+        "color6": "#DBAE6B",
+        "color7": "#c1c1c1",
+        "color8": "#6d6d58",
+        "color9": "#646d6e",
+        "color10": "#67777D",
+        "color11": "#9A5F2B",
+        "color12": "#A8916C",
+        "color13": "#D99C4E",
+        "color14": "#DBAE6B",
+        "color15": "#c1c1c1"
+    }
+}

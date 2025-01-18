@@ -1,0 +1,28 @@
+{
+    "checksum": "f96277c3cb443990b5c560e012cd3caa",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Mountain_Range.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d070d",
+        "foreground": "#c2c1c2",
+        "cursor": "#c2c1c2"
+    },
+    "colors": {
+        "color0": "#0d070d",
+        "color1": "#3e4567",
+        "color2": "#504471",
+        "color3": "#614776",
+        "color4": "#4c5680",
+        "color5": "#535288",
+        "color6": "#675c9a",
+        "color7": "#c2c1c2",
+        "color8": "#685568",
+        "color9": "#3e4567",
+        "color10": "#504471",
+        "color11": "#614776",
+        "color12": "#4c5680",
+        "color13": "#535288",
+        "color14": "#675c9a",
+        "color15": "#c2c1c2"
+    }
+}

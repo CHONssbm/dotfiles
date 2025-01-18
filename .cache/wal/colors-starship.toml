@@ -1,0 +1,12 @@
+
+[palettes.colors-starship-wal]
+color_fg0 = '$color0'
+color_bg1 = '$color1'
+color_bg3 = '$color2'
+color_blue = '$color3'
+color_aqua = '$color4'
+color_green = '$color5'
+color_orange = '$color6'
+color_purple = '$color7'
+color_red = '$color8'
+color_yellow = '$color9'

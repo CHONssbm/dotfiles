@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/chon/Pictures/Wallpapers/Fuji_Temple.jpg"
+let background = "#0a0a07"
+let foreground = "#c1c1c1"
+let cursor     = "#c1c1c1"
+
+" Colors
+let color0  = "#0a0a07"
+let color1  = "#2d7b87"
+let color2  = "#388bab"
+let color3  = "#935f31"
+let color4  = "#c4974f"
+let color5  = "#c99a5d"
+let color6  = "#d1ac74"
+let color7  = "#c1c1c1"
+let color8  = "#676754"
+let color9  = "#2d7b87"
+let color10 = "#388bab"
+let color11 = "#935f31"
+let color12 = "#c4974f"
+let color13 = "#c99a5d"
+let color14 = "#d1ac74"
+let color15 = "#c1c1c1"

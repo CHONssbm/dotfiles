@@ -1,0 +1,28 @@
+{
+    "checksum": "d88cebf7f5372f14a65d175f4d69ee7b",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/wallhaven-jx2o95.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07040E",
+        "foreground": "#c1c0c2",
+        "cursor": "#c1c0c2"
+    },
+    "colors": {
+        "color0": "#07040E",
+        "color1": "#8B72B3",
+        "color2": "#8B79C7",
+        "color3": "#CFAFA4",
+        "color4": "#948BDE",
+        "color5": "#9CAEFE",
+        "color6": "#ACB7FE",
+        "color7": "#c1c0c2",
+        "color8": "#5a5567",
+        "color9": "#8B72B3",
+        "color10": "#8B79C7",
+        "color11": "#CFAFA4",
+        "color12": "#948BDE",
+        "color13": "#9CAEFE",
+        "color14": "#ACB7FE",
+        "color15": "#c1c0c2"
+    }
+}

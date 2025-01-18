@@ -1,0 +1,28 @@
+{
+    "checksum": "919fece7d8e31c55603542ffd19d64f7",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121216",
+        "foreground": "#c3c3c4",
+        "cursor": "#c3c3c4"
+    },
+    "colors": {
+        "color0": "#121216",
+        "color1": "#5A5F69",
+        "color2": "#AD4149",
+        "color3": "#A15B5D",
+        "color4": "#9E8B76",
+        "color5": "#557789",
+        "color6": "#698998",
+        "color7": "#c3c3c4",
+        "color8": "#5b5b6f",
+        "color9": "#5A5F69",
+        "color10": "#AD4149",
+        "color11": "#A15B5D",
+        "color12": "#9E8B76",
+        "color13": "#557789",
+        "color14": "#698998",
+        "color15": "#c3c3c4"
+    }
+}

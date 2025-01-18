@@ -1,0 +1,28 @@
+{
+    "checksum": "4ea9d7882ccafdf1e3faf83a81c70ec9",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Alleyway.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101112",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#101112",
+        "color1": "#9e4c34",
+        "color2": "#8e512f",
+        "color3": "#ba643e",
+        "color4": "#c57b53",
+        "color5": "#c9825e",
+        "color6": "#3f7ebe",
+        "color7": "#c3c3c3",
+        "color8": "#596d6d",
+        "color9": "#9e4c34",
+        "color10": "#8e512f",
+        "color11": "#ba643e",
+        "color12": "#c57b53",
+        "color13": "#c9825e",
+        "color14": "#3f7ebe",
+        "color15": "#c3c3c3"
+    }
+}
