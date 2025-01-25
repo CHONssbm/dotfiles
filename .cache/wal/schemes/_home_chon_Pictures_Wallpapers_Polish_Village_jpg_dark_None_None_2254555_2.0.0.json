@@ -1,0 +1,28 @@
+{
+    "checksum": "67572698d3e2c0e36b68ae35e21a3334",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Polish_Village.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d090f",
+        "foreground": "#c2c1c3",
+        "cursor": "#c2c1c3"
+    },
+    "colors": {
+        "color0": "#0d090f",
+        "color1": "#5370A5",
+        "color2": "#2A7CC2",
+        "color3": "#9D7594",
+        "color4": "#3683BC",
+        "color5": "#5D86B9",
+        "color6": "#368BC7",
+        "color7": "#c2c1c3",
+        "color8": "#60576a",
+        "color9": "#5370A5",
+        "color10": "#2A7CC2",
+        "color11": "#9D7594",
+        "color12": "#3683BC",
+        "color13": "#5D86B9",
+        "color14": "#368BC7",
+        "color15": "#c2c1c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "5ab023566f8ac4aa3512d2ead792ffa1",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Snowy_Temple.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0E0B",
+        "foreground": "#c3c2c2",
+        "cursor": "#c3c2c2"
+    },
+    "colors": {
+        "color0": "#0F0E0B",
+        "color1": "#B79861",
+        "color2": "#8E918F",
+        "color3": "#9DA1A0",
+        "color4": "#AEB1AF",
+        "color5": "#BEC0BF",
+        "color6": "#D2D4D4",
+        "color7": "#c3c2c2",
+        "color8": "#6b6457",
+        "color9": "#B79861",
+        "color10": "#8E918F",
+        "color11": "#9DA1A0",
+        "color12": "#AEB1AF",
+        "color13": "#BEC0BF",
+        "color14": "#D2D4D4",
+        "color15": "#c3c2c2"
+    }
+}

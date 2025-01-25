@@ -1,0 +1,28 @@
+{
+    "checksum": "01b0768ce9955933c90d45378a88ce61",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Japanese_Train_Station.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c0f",
+        "foreground": "#c2c2c3",
+        "cursor": "#c2c2c3"
+    },
+    "colors": {
+        "color0": "#0b0c0f",
+        "color1": "#B36A09",
+        "color2": "#917067",
+        "color3": "#C2976B",
+        "color4": "#6D7688",
+        "color5": "#877E8B",
+        "color6": "#A19BA3",
+        "color7": "#c2c2c3",
+        "color8": "#575e6b",
+        "color9": "#B36A09",
+        "color10": "#917067",
+        "color11": "#C2976B",
+        "color12": "#6D7688",
+        "color13": "#877E8B",
+        "color14": "#A19BA3",
+        "color15": "#c2c2c3"
+    }
+}

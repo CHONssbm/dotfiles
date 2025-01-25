@@ -1,0 +1,28 @@
+{
+    "checksum": "f3b47b2194bb3eb7a148d95cf8441704",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Japanese_Countryside.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f191f",
+        "foreground": "#c3c5c7",
+        "cursor": "#c3c5c7"
+    },
+    "colors": {
+        "color0": "#0f191f",
+        "color1": "#6B883B",
+        "color2": "#D2A717",
+        "color3": "#1E688F",
+        "color4": "#56758F",
+        "color5": "#618FB0",
+        "color6": "#19A0D3",
+        "color7": "#c3c5c7",
+        "color8": "#5d6a72",
+        "color9": "#6B883B",
+        "color10": "#D2A717",
+        "color11": "#1E688F",
+        "color12": "#56758F",
+        "color13": "#618FB0",
+        "color14": "#19A0D3",
+        "color15": "#c3c5c7"
+    }
+}

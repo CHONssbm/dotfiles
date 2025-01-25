@@ -1,0 +1,28 @@
+{
+    "checksum": "aac005b141d6c63123f6d0ed71d6480f",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Hakase.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c2d39",
+        "foreground": "#c6cacd",
+        "cursor": "#c6cacd"
+    },
+    "colors": {
+        "color0": "#1c2d39",
+        "color1": "#4E8FB0",
+        "color2": "#628FA0",
+        "color3": "#7CDD82",
+        "color4": "#61A0C1",
+        "color5": "#71B2D1",
+        "color6": "#EAAE8C",
+        "color7": "#c6cacd",
+        "color8": "#687680",
+        "color9": "#4E8FB0",
+        "color10": "#628FA0",
+        "color11": "#7CDD82",
+        "color12": "#61A0C1",
+        "color13": "#71B2D1",
+        "color14": "#EAAE8C",
+        "color15": "#c6cacd"
+    }
+}

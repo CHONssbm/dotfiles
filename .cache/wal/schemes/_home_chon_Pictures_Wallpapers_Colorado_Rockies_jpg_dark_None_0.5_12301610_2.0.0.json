@@ -1,0 +1,28 @@
+{
+    "checksum": "2b63ecd6ca9fa29b1eef0c5b463f1b14",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Colorado_Rockies.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05182B",
+        "foreground": "#c0c5ca",
+        "cursor": "#c0c5ca"
+    },
+    "colors": {
+        "color0": "#05182B",
+        "color1": "#2b5c83",
+        "color2": "#3a6fb1",
+        "color3": "#326e99",
+        "color4": "#bf40bf",
+        "color5": "#4f87c4",
+        "color6": "#3e84ba",
+        "color7": "#c0c5ca",
+        "color8": "#5e6872",
+        "color9": "#2b5c83",
+        "color10": "#3a6fb1",
+        "color11": "#326e99",
+        "color12": "#bf40bf",
+        "color13": "#4f87c4",
+        "color14": "#3e84ba",
+        "color15": "#c0c5ca"
+    }
+}

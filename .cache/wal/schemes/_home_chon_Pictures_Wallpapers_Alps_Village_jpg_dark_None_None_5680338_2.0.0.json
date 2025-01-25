@@ -1,0 +1,28 @@
+{
+    "checksum": "8324ef2814abbeb10c397f7ccd1e4cc5",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Alps_Village.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020718",
+        "foreground": "#bfc1c5",
+        "cursor": "#bfc1c5"
+    },
+    "colors": {
+        "color0": "#020718",
+        "color1": "#ECA138",
+        "color2": "#0862A0",
+        "color3": "#1375BC",
+        "color4": "#9A7294",
+        "color5": "#0493D6",
+        "color6": "#15A4E1",
+        "color7": "#bfc1c5",
+        "color8": "#575b6a",
+        "color9": "#ECA138",
+        "color10": "#0862A0",
+        "color11": "#1375BC",
+        "color12": "#9A7294",
+        "color13": "#0493D6",
+        "color14": "#15A4E1",
+        "color15": "#bfc1c5"
+    }
+}
