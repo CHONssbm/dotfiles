@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+THEME1="oomox-colors-alleyway"
+THEME2="oomox-colors-alpsVillage"
+THEME3="oomox-colors-cityNight"
+THEME4="oomox-colors-clyffordStill"
+THEME5="oomox-colors-Colorado"
+THEME6="oomox-colors-europeanCity"
+THEME7="oomox-colors-fujiTemple"
+THEME8="oomox-colors-hakase"
+THEME9="oomox-colors-japaneseCountry"
+THEME10="oomox-colors-japaneseTrain"
+THEME11="oomox-colors-mountainRange"
+THEME12="oomox-colors-polishVillage"
+THEME13="oomox-colors-Rooftop"
+THEME14="oomox-colors-snowyTemple"

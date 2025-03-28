@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+WALL1="Alleyway.jpg"
+WALL2="Alps_Village.jpg"
+WALL3="City_Night.png"
+WALL4="Clyford_Still_Museum.jpg"
+WALL5="Colorado_Rockies.jpg"
+WALL6="European_City.jpg"
+WALL7="Fuji_Temple.jpg"
+WALL8="Hakase.png"
+WALL9="Japanese_Countryside.png"
+WALL10="Japanese_Train_Station.jpg"
+WALL11="Mountain_Range.jpg"
+WALL12="Polish_Village.jpg"
+WALL13="Rooftop.png"
+WALL14="Snowy_Temple.jpg"

@@ -1,0 +1,28 @@
+{
+    "checksum": "d981f9f3df286d95d4a3d8f1927c8a56",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/wallhaven-wez7r6.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E142C",
+        "foreground": "#c2c4ca",
+        "cursor": "#c2c4ca"
+    },
+    "colors": {
+        "color0": "#0E142C",
+        "color1": "#242C44",
+        "color2": "#634540",
+        "color3": "#9C5926",
+        "color4": "#B16637",
+        "color5": "#DFA043",
+        "color6": "#E7A05D",
+        "color7": "#c2c4ca",
+        "color8": "#606576",
+        "color9": "#242C44",
+        "color10": "#634540",
+        "color11": "#9C5926",
+        "color12": "#B16637",
+        "color13": "#DFA043",
+        "color14": "#E7A05D",
+        "color15": "#c2c4ca"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "f2ff55037470aeaa20a3b3a7a4732a5c",
+    "wallpaper": "/home/chon/Pictures/Wallpapers/Rooftop.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C162B",
+        "foreground": "#c2c4ca",
+        "cursor": "#c2c4ca"
+    },
+    "colors": {
+        "color0": "#0C162B",
+        "color1": "#484d78",
+        "color2": "#465675",
+        "color3": "#4c5f7f",
+        "color4": "#576a91",
+        "color5": "#5b6797",
+        "color6": "#8967a4",
+        "color7": "#c2c4ca",
+        "color8": "#606675",
+        "color9": "#484d78",
+        "color10": "#465675",
+        "color11": "#4c5f7f",
+        "color12": "#576a91",
+        "color13": "#5b6797",
+        "color14": "#8967a4",
+        "color15": "#c2c4ca"
+    }
+}

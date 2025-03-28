@@ -1,0 +1,217 @@
+/***********************************************************************************************/
+/* based off of zft0xgy's waybar: https://github.com/zft9xgy/dotfiles/tree/main/.config/waybar */
+/***********************************************************************************************/
+
+@import '/home/chon/.cache/wal/colors-waybar.css';
+
+@define-color bg @background;
+@define-color fg @foreground;
+@define-color textcolor @cursor;
+
+* {
+	font-family: "JetBrainsMono Bold";
+	font-size:  10px;
+  border-radius: 10px;
+	border: transparent;
+  opacity: 0.95;
+}
+
+tooltip {
+  background-color: transparent;
+}
+
+tooltip label {
+  border: 2px solid @color1;
+  border-radius: 10px;
+  background: @bg;
+  color: @fg;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#window {
+  font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+  border: 2px solid @bg;
+  background: @color1;
+	color: @bg;
+}
+
+window#waybar {
+	background: none;
+}
+
+window#waybar.hidden {
+}
+
+
+.modules-left,
+.modules-center,
+.modules-right {
+	padding: 5px;
+	margin: 5px;
+}
+
+/** common properties **/
+#workspaces,
+#memory,
+#tray,
+#network,
+#battery,
+#pulseaudio,
+#cpu,
+#clock,
+#custom-weather,
+#custom-wallpaper,
+#custom-backlight,
+#custom-keybinds,
+
+#custom-exit {
+	border-radius: 10px;
+	background: @color2;
+	color: @cursor;
+}
+
+#custom-clock {
+  border: 2px solid @bg;
+  background: @color2;
+  color: @cursor;
+	margin-right: 0px;
+}
+
+#workspaces {
+  border: 2px solid @bg;
+	padding: 3px;
+	border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#workspaces button {
+  padding: 0 0.5rem;
+  font-weight: bold;
+}
+
+#workspaces button.active {
+  min-width: 30px;
+  background-color: @bg;
+  opacity: 0.8;
+	border-radius: 10px;
+	color: @color1;
+}
+
+#custom-weather {
+  border: 2px solid @bg;
+  padding-left: 10px;
+	font-weight: bold;
+  padding-right: 10px;
+  transition: none;
+  background-color: @color4;
+  color: @bg;
+}
+
+#custom-wallpaper {
+  border: 2px solid @bg;
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+  background: @color1;
+	color: @bg;
+}
+
+#network {
+	padding-left: 10px;
+	font-weight: bold;
+	padding-right: 10px;
+	border-radius: 10px;
+	transition: none;
+  background: @color4;
+	color: @bg;
+}
+
+#pulseaudio {
+  border: 2px solid @bg;
+	padding-left: 10px;
+	font-weight: bold;
+	padding-right: 10px;
+	transition: none;
+  background: @color4;
+	color: @bg;
+}
+
+#custom-backlight {
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+	color: @color3;
+}
+
+#battery {
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+	color: @color2;
+}
+
+#clock {
+  border: 2px solid @bg;
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+	font-weight: bold;
+  background: @color4;
+	color: @bg;
+
+}
+
+#memory {
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+  background: @color1;
+	color: @bg;
+}
+
+
+#custom-exit{
+  border: 2px solid @bg;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 15px;
+	transition: none;
+  background: @color1;
+	color: @bg;
+}
+
+#custom-keybinds{
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 15px;
+	transition: none;
+  background: @color1;
+	color: @bg;
+}
+
+#cpu {
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	transition: none;
+  background: @color1;
+	color: @bg;
+}
+
+#tray {
+  border: 2px solid @bg;
+  padding-left: 10px;
+	font-weight: bold;
+  padding-right: 10px;
+  transition: none;
+  background-color: @color4;
+  color: @bg;
+}
